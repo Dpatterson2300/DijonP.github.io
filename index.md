@@ -2,17 +2,34 @@
 
 ---
 
-### Category Name 1 
+### TripleTen Projects 
 
-[Project 1 Title](/sample_page)
+[NYC Air bnb data](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Zuber database](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Business Analytics project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[SuperStore Data Visualization with Tableau project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+[SuperStore Storytelling with Data project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Shopify PowerBI project](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+[Zomato Final project](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
